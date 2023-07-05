@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World! Welcome to my OSRE Catalyst Blog Page. I hope you like what you see and if you don't ... that's fine by me =). 
+My name is Sekani Warner, I am attending Norfolk State University where I study computer science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ As I write this initail about me post I am apart of an incredible networking opppurtunity in the beautiful city of Santa Cruz, Califronia! Enjoy
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wsekani@gmail.com](mailto:wsekani@gmail.com)
