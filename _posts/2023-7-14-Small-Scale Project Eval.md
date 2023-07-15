@@ -8,5 +8,5 @@ title: Evaluation Time - Times Up!
 
 #### The download and installation process for this software shouldn’t be too difficult; I trust that this process will take no more than a few minutes. Developers working on this project use slack to communicate with each other. They have multiple slack channels with specific purposes, per channel names. Channels such as “#general” and “#get-started” are available to members and address questions regarding meeting times, project inquiries, and helpful resources for new members. All in all, the most fascinating thing I’ve learned today, through completing this exercise is how vast two open source projects can vary in terms of size, resources, and activity. I have learned much new information today and am glad I pushed through with the help of my cohort.
 
-### Take a look at *OpenSSF*'s logo!
+## Take a look at *OpenSSF*'s logo!
 <img src="https://github.com/snwarner22/My-Project/assets/137221902/8e14b4bc-f32b-484b-a83b-4eb2b34e6d6b" width="40%"/>
