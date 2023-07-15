@@ -2,7 +2,7 @@
 layout: post
 title: Goal Setting!
 ---
-![Kani Pops Graduation - Blurred](https://github.com/snwarner22/snwarner22.github.ioOLD/assets/137221902/bef0b49a-3e4b-4023-b3ea-962cba3f7f6c)
+<img src="https://github.com/snwarner22/snwarner22.github.ioOLD/assets/137221902/bef0b49a-3e4b-4023-b3ea-962cba3f7f6c" width= "40%"/>
 
 #### Hello World! My name is Sekani Warner, I was born and raised in Woodbridge, Virginia (Northern VA). I am currently preparing for my junior year attending Norfolk State University, where I will continue to pursue a degree in computer science. My earliest experience with coding was way back in elementary school along with our robotics team! From that moment on I have had a burning desire to learn and become an achieved programmer. It is something that compliments my strengths, while also challenging me. Just because I love something does not mean it comes naturally easy, and that is something I can live with =) … 
 
