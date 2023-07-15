@@ -3,7 +3,6 @@ layout: post
 title: Evaluation Time - Times Up!
 ---
 <img src="https://github.com/snwarner22/My-Project/assets/137221902/8e14b4bc-f32b-484b-a83b-4eb2b34e6d6b" width="20%"/>
-
 ### Take a look at *OpenSSF*'s logo!
 
 #### Today my cohort and I worked on an assignment in groups of two. We had an opportunity to look at two open source projects; the one I will be discussing today is the *OpenSSF Scorecard* project which has its repository on GitHub. The purpose of this project is centered around security for the maintainers of open source projects of their own. This repository in comparison to the other repo we researched today is small. It has a total of 112 contributors as opposed to  530 from the larger one. *OpenSSF* is an active project, but from my findings is less active than the larger project. The first place I would go to if I were interested in this project would be the CONTRIBUTING.md file; here you will find what the next steps are to possibly become a contributor. This document also contains information stating what software you need to have installed to contribute/submit pull requests.
