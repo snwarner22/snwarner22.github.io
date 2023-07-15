@@ -2,7 +2,7 @@
 layout: post
 title: Motivate Me!
 ---
-![Nagi Tattoo](https://github.com/snwarner22/My-Project/assets/137221902/f9d28330-7c2e-4ab6-937a-af5951281df6)
+<img src="https://github.com/snwarner22/My-Project/assets/137221902/f9d28330-7c2e-4ab6-937a-af5951281df6" width="70%"/>
 
 #### A problem I hope to solve within the technological field is software being used for nefarious purposes. Peopele taking advantage of others is a vast topic, so I want to focus my efforts towards cybersecurity. Thankfully, I can say I do not know anyone who has been a victim of scamming, stolen bank information, or fraud. However, I have heard countless stories online of others who have been less fortunate. I would like to address this issue within the technological community to protect those who can't protect themselves. I also want to spread awarness, so one day they indeed can protect themselves.
 
