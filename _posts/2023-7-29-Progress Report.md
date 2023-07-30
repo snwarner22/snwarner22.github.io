@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Status Update: Personal Growth
+title: Status Update...Personal Growth
 ---
 #### During my time as a contributor to the p5.js repository on GitHub, I have opened my own issue and resolved it by submitting a pull request. I searched through this project’s documentation and found an overlooked typo in one of their documents. I then followed community guidelines on appropriate procedures for reporting issues.  Eventually, I was greeted by a steward (a person who makes decisions regarding codebase) and was encouraged to create a pull request (a request to incorporate your personal changes into the project’s repo) for my issue. I have also communicated with members of p5.js via discord;  I shared a link to an issue that was created by a team member of mine, this link contained collaborative ideas and concerns about existing procedures.
 #### Strangely enough, I have gained real-world experience on how important effective communication is. Through interacting with this community I understand why following typical procedures are important. I’ve gotten into a groove transmitting information to others who have more knowledge than me in their field. Lastly, I have gotten experience using mergetools to solve conflicting changes made to files. 
