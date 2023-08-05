@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Highlights the Things I Like
+title: Highlights - Things I Like
 ---
-<img src="https://github.com/snwarner22/snwarner22.github.ioOLD/assets/137221902/b14ab7e0-1c9e-45f7-98e9-31920f6ffc5b" width="50%"/>
+<img src="https://github.com/snwarner22/snwarner22.github.ioOLD/assets/137221902/b14ab7e0-1c9e-45f7-98e9-31920f6ffc5b" width="44%"/>
 
 #### While reading *How to Open Source* I was brought up to speed with an unfamiliar term. The term was nonviolent communication or, NVC for short. My curiosity was sparked when Richard Schneeman, the author of *HTOS*, explained why NVC is valued in community-driven spaces such as open-source communities. I have already begun my plunge into the unknowns of this topic. I plan to read *Nonviolent Communication: A Language of Life* that is authored by Marshall B. Rosenberg PhD to solidify my roots within this knowledge.
 
